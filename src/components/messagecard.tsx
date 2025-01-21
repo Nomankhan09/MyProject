@@ -26,6 +26,10 @@ const MessageCard = ({ name, message, time, count, image }: any) => {
     )
 }
 
+
+
+//
+
 const styles = StyleSheet.create({
     button: {
         flexDirection: 'row',
